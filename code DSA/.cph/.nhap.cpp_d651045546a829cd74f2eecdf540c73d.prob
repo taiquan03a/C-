@@ -1,0 +1,1 @@
+{"name":"Local: nhap","url":"c:\\Users\\ADMIN\\.vscode\\C++\\codeptit\\code DSA\\nhap.cpp","tests":[{"id":1679110018027,"input":"5\n0 0 1 1 1 \n\n1 0 0 0 1\n\n\n1 1 1 0 1\n\n0 0 1 0 1\n1 0 0 0 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ADMIN\\.vscode\\C++\\codeptit\\code DSA\\nhap.cpp","group":"local","local":true}

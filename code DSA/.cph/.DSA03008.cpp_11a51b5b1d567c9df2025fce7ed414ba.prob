@@ -1,0 +1,1 @@
+{"name":"Local: DSA03008","url":"c:\\Users\\ADMIN\\.vscode\\C++\\codeptit\\code DSA\\DSA03008.cpp","tests":[{"id":1680544106094,"input":"1\n\n6\n\n1  3  0  5  8  5\n\n2  4  6  7  9  9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ADMIN\\.vscode\\C++\\codeptit\\code DSA\\DSA03008.cpp","group":"local","local":true}

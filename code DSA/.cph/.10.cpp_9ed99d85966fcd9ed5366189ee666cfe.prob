@@ -1,0 +1,1 @@
+{"name":"Local: 10","url":"c:\\Users\\ADMIN\\.vscode\\C++\\codeptit\\code DSA\\10.cpp","tests":[{"id":1680422058214,"input":"1\n3","output":"3\n7\n- + 2 * 3 1 9\n7\n- + 8 * 7 5 9\n3\n+ -10 -4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ADMIN\\.vscode\\C++\\codeptit\\code DSA\\10.cpp","group":"local","local":true}
